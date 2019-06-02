@@ -15,3 +15,4 @@ def speak_to_grandma(phrase)
   if (phrase == "I LOVE YOU GRANDMA!".upcase)
     puts "I LOVE YOU TOO PUMPKIN!"
   end
+else if(phrase=='Hi Nana, how are you?')
